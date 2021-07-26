@@ -12,12 +12,13 @@ namespace Kata.Tests
         {
             // Arrange
             target = new Class1();
+            var number = 3;
 
             // Act
-            var result = target.Method1();
+            var result = target.Method1(number);
 
             // Assert
-            Assert.True(result);
+            Assert.Equals("III", result);
         }
     }
 }
