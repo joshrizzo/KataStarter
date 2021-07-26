@@ -1,0 +1,12 @@
+C:\Users\joshr\Documents\Git\KataStarter\Kata\bin\Debug\net5.0\Kata.deps.json
+C:\Users\joshr\Documents\Git\KataStarter\Kata\bin\Debug\net5.0\Kata.dll
+C:\Users\joshr\Documents\Git\KataStarter\Kata\bin\Debug\net5.0\ref\Kata.dll
+C:\Users\joshr\Documents\Git\KataStarter\Kata\bin\Debug\net5.0\Kata.pdb
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\Kata.csproj.AssemblyReference.cache
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\Kata.AssemblyInfoInputs.cache
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\Kata.AssemblyInfo.cs
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\Kata.csproj.CoreCompileInputs.cache
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\Kata.dll
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\ref\Kata.dll
+C:\Users\joshr\Documents\Git\KataStarter\Kata\obj\Debug\net5.0\Kata.pdb
